@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "manipulate_images/1.0.0": {
+        "runtime": {
+          "manipulate_images.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "manipulate_images/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Nouri\source\repos\manipulate_images\bin\Debug\net6.0-windows\manipulate_images.exe
+C:\Users\Nouri\source\repos\manipulate_images\bin\Debug\net6.0-windows\manipulate_images.deps.json
+C:\Users\Nouri\source\repos\manipulate_images\bin\Debug\net6.0-windows\manipulate_images.runtimeconfig.json
+C:\Users\Nouri\source\repos\manipulate_images\bin\Debug\net6.0-windows\manipulate_images.dll
+C:\Users\Nouri\source\repos\manipulate_images\bin\Debug\net6.0-windows\ref\manipulate_images.dll
+C:\Users\Nouri\source\repos\manipulate_images\bin\Debug\net6.0-windows\manipulate_images.pdb
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.csproj.AssemblyReference.cache
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.Form1.resources
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.csproj.GenerateResource.cache
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.AssemblyInfoInputs.cache
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.AssemblyInfo.cs
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.csproj.CoreCompileInputs.cache
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.dll
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\ref\manipulate_images.dll
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.pdb
+C:\Users\Nouri\source\repos\manipulate_images\obj\Debug\net6.0-windows\manipulate_images.genruntimeconfig.cache
